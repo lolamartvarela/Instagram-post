@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+.main{
+    background-color: white;
+    height: 600px;
+    width: 450px;
+    margin: auto;
+    margin-top: 50px;
+}
+.header{
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.puntitos{
+    margin-left: 290px;
+}
+.bottom{
+    position: absolute; 
+    bottom: 2;
+}
+.nombre-usuario{
+    padding-left: 10px;
+    width: 180px !important;
+    display: flex;
+}
+.content{
+    height: 300px;
+    width: 450px;
+}
+.imagengrande{
+    height: 350px;
+    width: 450px;
+}
+.footer{
+    padding-top: 60px;
+    height: 190px;
+    padding-left: 10px;
+}
+.arriba{
+    height: 40px;
+}
+.icono-extremo{
+    margin-left: 300px;
+}
+h5{
+    color: black;
+}
+.texto{
+    margin-bottom: 20px;
+}
+.titulo{
+    height: 60px;
+    width: 60px;
+    margin-right: 20px;
+}
